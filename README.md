@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,githubactions,aws" />
+</div>
 
-<!--
-**hamtorygoals/hamtorygoals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/hamtorygoals?pet-id=795638767823700657" width="30%" />
+    <img src="https://render.gitanimals.org/lines/hamtorygoals?pet-id=794588386830147743" width="30%" />
+    <img src="https://render.gitanimals.org/lines/hamtorygoals?pet-id=795638767823700658" width="30%" />
+  </a>
+</div>
